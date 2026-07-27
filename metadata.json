@@ -1,0 +1,6 @@
+{
+  "name": "ChainSight",
+  "description": "An end-to-end supply chain visibility, logistics telemetry, supplier risk monitoring, and AI-powered inventory intelligence platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
